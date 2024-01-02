@@ -1,16 +1,26 @@
-# flutter_application_1
+# Flutter practice app
 
-A new Flutter project.
+Features:
 
-## Getting Started
+- simple screen navigation
+- shared_preferences - remembers data/persists data
+- api integration using http
+- UI validation
+- UI notifications
+- unit tests with API mocking
 
-This project is a starting point for a Flutter application.
+How to run:
 
-A few resources to get you started if this is your first Flutter project:
+- clone project
+- install stable channel flutter
+- install iOS simulator with XCode
+- open project in VsCode with flutter and dart extensions
+- run pub get
+- navigate to main.dart
+- press F5 to run 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screenshot:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/jfajardo-equinix/TodoApp/assets/116493362/0fcb2729-46e0-48ed-ba6a-e3bab6585a5d)
+
+![image](https://github.com/jfajardo-equinix/TodoApp/assets/116493362/3a9b83e5-c891-45f8-919c-d9027adda014)
