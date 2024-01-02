@@ -19,4 +19,5 @@ How to run:
 - press F5 to run 
 
 Screenshot:
+
 ![image](https://github.com/jfajardo-equinix/TodoApp/assets/116493362/0fcb2729-46e0-48ed-ba6a-e3bab6585a5d)
