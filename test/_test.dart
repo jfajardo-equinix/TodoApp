@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
-import 'package:flutter_application_1/main.dart';
-import 'package:flutter_application_1/api_client.dart';
+import 'package:todoapp/main.dart';
+import 'package:todoapp/api_client.dart';
 
 class MockApiClient extends Mock implements ApiClient {}
 
