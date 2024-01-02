@@ -22,3 +22,5 @@ How to run:
 Screenshot:
 
 ![image](https://github.com/jfajardo-equinix/TodoApp/assets/116493362/0fcb2729-46e0-48ed-ba6a-e3bab6585a5d)
+
+![image](https://github.com/jfajardo-equinix/TodoApp/assets/116493362/3a9b83e5-c891-45f8-919c-d9027adda014)
