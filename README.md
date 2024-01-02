@@ -12,7 +12,8 @@ Features:
 How to run:
 
 - clone project
-- install flutter and iOS simulator with XCode
+- install stable channel flutter
+- install iOS simulator with XCode
 - open project in VsCode with flutter and dart extensions
 - run pub get
 - navigate to main.dart
