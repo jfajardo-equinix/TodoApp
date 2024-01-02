@@ -2,12 +2,12 @@
 
 Features:
 
-- functional programming
+- simple screen navigation
 - shared_preferences - remembers data/persists data
-- api integration
+- api integration using http
 - UI validation
 - UI notifications
-- working unit tests
+- unit tests with API mocking
 
 How to run:
 
